@@ -2,11 +2,11 @@
   <section class="section container">
     <div class="project-summary">
       <div>
-        <p class="eyebrow">Saha Ozeti</p>
-        <h2>Bu Ay Sahada Neler Yaptik?</h2>
+        <p class="eyebrow">Saha Özeti</p>
+        <h2>Bu Ay Sahada Neler Yaptık?</h2>
         <p>
-          Farkli sektorlerde planli kaldirma, montaj ve tasima operasyonlarini
-          guvenli sekilde tamamladik.
+          Farklı sektörlerde planlı kaldırma, montaj ve taşıma operasyonlarını
+          güvenli şekilde tamamladık.
         </p>
       </div>
       <div class="project-metrics">
@@ -16,11 +16,11 @@
         </article>
         <article>
           <strong>40+</strong>
-          <span>Saat Aktif Saha Calismasi</span>
+          <span>Saat Aktif Saha Çalışması</span>
         </article>
         <article>
           <strong>%100</strong>
-          <span>Guvenlik Kontrol Proseduru</span>
+          <span>Güvenlik Kontrol Prosedürü</span>
         </article>
       </div>
     </div>

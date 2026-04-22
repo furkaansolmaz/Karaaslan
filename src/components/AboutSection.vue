@@ -1,23 +1,23 @@
 <template>
   <section id="hakkimizda" class="section container about">
     <div class="about-copy">
-      <h2>Neden Karaaslan Vinc?</h2>
+      <h2>Neden Karaaslan Vinç?</h2>
       <p>
-        Is guvenligini tum operasyonlarimizin merkezine koyuyoruz. Her projeye
-        baslamadan once saha kesfi, kaldirma plani, ekipman uygunluk analizi ve
-        risk degerlendirmesi yaparak sureci netlestiriyoruz. Deneyimli operator
-        ekibimiz ve planli is akisimizla; islerinizi zamaninda, kontrollu ve
-        maksimum verimlilikle tamamlamayi hedefliyoruz.
+        İş güvenliğini tüm operasyonlarımızın merkezine koyuyoruz. Her projeye
+        başlamadan önce saha keşfi, kaldırma planı, ekipman uygunluk analizi ve
+        risk değerlendirmesi yaparak süreci netleştiriyoruz. Deneyimli operatör
+        ekibimiz ve planlı iş akışımızla; işlerinizi zamanında, kontrollü ve
+        maksimum verimlilikle tamamlamayı hedefliyoruz.
       </p>
-      <RouterLink class="btn primary" to="/iletisim">Projene Ozel Teklif Al</RouterLink>
+      <RouterLink class="btn primary" to="/iletisim">Projene Özel Teklif Al</RouterLink>
     </div>
 
     <div class="about-checklist">
       <ul>
-        <li>Modern ve bakimli vinc filosu</li>
-        <li>Belgeli, deneyimli operator kadrosu</li>
-        <li>Zamaninda teslim odakli operasyon</li>
-        <li>7/24 erisilebilir destek hatti</li>
+        <li>Modern ve bakımlı vinç filosu</li>
+        <li>Belgeli, deneyimli operatör kadrosu</li>
+        <li>Zamanında teslim odaklı operasyon</li>
+        <li>7/24 erişilebilir destek hattı</li>
       </ul>
     </div>
   </section>

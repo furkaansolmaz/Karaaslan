@@ -9,11 +9,11 @@ import heavyImage from '../assets/heavy-banner.jpg'
       :style="{ backgroundImage: `url(${heavyImage})` }"
     >
       <div class="heavy-banner-content">
-        <p class="eyebrow">Agir Kaldirma</p>
-        <h2>Yuksek Tonajli Islerde Kontrollu ve Guvenli Operasyon</h2>
+        <p class="eyebrow">Ağır Kaldırma</p>
+        <h2>Yüksek Tonajlı İşlerde Kontrollü ve Güvenli Operasyon</h2>
         <p>
-          Proje sahasina ozel planlama, dogru ekipman secimi ve deneyimli
-          operator kadromuzla agir kaldirma sureclerini emniyetle yonetiyoruz.
+          Proje sahasına özel planlama, doğru ekipman seçimi ve deneyimli
+          operatör kadromuzla ağır kaldırma süreçlerini emniyetle yönetiyoruz.
         </p>
       </div>
     </div>

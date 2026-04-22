@@ -10,22 +10,22 @@ const activeImage = ref(null)
 const galleryItems = [
   {
     title: 'Konteyner Nakliye Hizmeti',
-    subtitle: 'Sahada guvenli konteyner tasima ve konumlandirma operasyonu.',
+    subtitle: 'Sahada güvenli konteyner taşıma ve konumlandırma operasyonu.',
     image: service0,
   },
   {
     title: 'Sepetli Platform Hizmeti',
-    subtitle: 'Yuksekte montaj ve erisim gerektiren islerde emniyetli cozum.',
+    subtitle: 'Yüksekte montaj ve erişim gerektiren işlerde emniyetli çözüm.',
     image: service1,
   },
   {
-    title: 'Celik Montaj Hizmeti',
-    subtitle: 'Endustriyel yapilarda teknik ve kontrollu montaj uygulamalari.',
+    title: 'Çelik Montaj Hizmeti',
+    subtitle: 'Endüstriyel yapılarda teknik ve kontrollü montaj uygulamaları.',
     image: service2,
   },
   {
-    title: 'Dis Cephe Panel Hizmeti',
-    subtitle: 'Cephe panel uygulamalarinda hassas kaldirma ve konumlandirma.',
+    title: 'Dış Cephe Panel Hizmeti',
+    subtitle: 'Cephe panel uygulamalarında hassas kaldırma ve konumlandırma.',
     image: service3,
   },
 ]
@@ -56,9 +56,9 @@ onBeforeUnmount(() => {
 <template>
   <section id="galeri" class="section section-dark">
     <div class="container">
-      <h2>Projelerden Goruntuler</h2>
+      <h2>Projelerden Görüntüler</h2>
       <p class="section-subtitle">
-        Sahadaki gucumuzu yansitan operasyonlarimizdan secmeler.
+        Sahadaki gücümüzü yansıtan operasyonlarımızdan seçmeler.
       </p>
 
       <div class="gallery gallery-slider">

@@ -19,7 +19,7 @@
       </div>
       <div class="map-card">
         <iframe
-          title="Karaaslan Vinc Konum"
+          title="Karaaslan Vinç Konum"
           src="https://maps.google.com/maps?q=38.6554527,39.2609367&t=&z=18&ie=UTF8&iwloc=&output=embed"
           loading="lazy"
           referrerpolicy="no-referrer-when-downgrade"

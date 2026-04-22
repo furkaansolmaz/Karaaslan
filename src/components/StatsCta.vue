@@ -1,5 +1,10 @@
 <template>
   <section class="section container">
+    <div class="section-head">
+      <p class="eyebrow">Rakamlarla Karaaslan Vinç</p>
+      <h2>Operasyon Gücümüz</h2>
+      <p class="section-subtitle">Sahadaki hızımızı ve deneyimimizi özetleyen temel göstergeler.</p>
+    </div>
     <div class="stats-cta">
       <div class="stats-grid">
         <article>
@@ -8,19 +13,19 @@
         </article>
         <article>
           <strong>7/24</strong>
-          <span>Saha Destegi</span>
+          <span>Saha Desteği</span>
         </article>
         <article>
           <strong>15 dk</strong>
-          <span>Hizli Donus Sureci</span>
+          <span>Hızlı Dönüş Süreci</span>
         </article>
       </div>
       <div class="stats-action">
-        <p class="eyebrow">Hizli Teklif</p>
-        <h3>Projeniz icin net ve hizli teklif alin</h3>
-        <p>Ekibimiz ihtiyaciniza uygun vinci belirleyip en dogru planla donus yapsin.</p>
+        <p class="eyebrow">Hızlı Teklif</p>
+        <h3>Projeniz için net ve hızlı teklif alın</h3>
+        <p>Ekibimiz ihtiyacınıza uygun vinci belirleyip en doğru planla dönüş yapsın.</p>
         <RouterLink class="btn stats-cta-btn" to="/iletisim">
-          Ucretsiz Kesif Talep Et
+          Ücretsiz Keşif Talep Et
         </RouterLink>
       </div>
     </div>

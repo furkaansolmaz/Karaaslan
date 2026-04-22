@@ -1,16 +1,16 @@
 <script setup>
 const steps = [
   {
-    title: 'Kesif ve Planlama',
-    text: 'Saha kosullarini analiz ediyor, riskleri belirliyor ve kaldirma planini netlestiriyoruz.',
+    title: 'Keşif ve Planlama',
+    text: 'Saha koşullarını analiz ediyor, riskleri belirliyor ve kaldırma planını netleştiriyoruz.',
   },
   {
     title: 'Ekipman ve Ekip',
-    text: 'Projeye en uygun vinc tipini ve deneyimli operator ekibini gorevlendiriyoruz.',
+    text: 'Projeye en uygun vinç tipini ve deneyimli operatör ekibini görevlendiriyoruz.',
   },
   {
-    title: 'Guvenli Uygulama',
-    text: 'Operasyonu is guvenligi standartlarina uygun sekilde, adim adim kontrol ederek tamamliyoruz.',
+    title: 'Güvenli Uygulama',
+    text: 'Operasyonu iş güvenliği standartlarına uygun şekilde, adım adım kontrol ederek tamamlıyoruz.',
   },
 ]
 </script>
@@ -18,9 +18,9 @@ const steps = [
 <template>
   <section class="section container">
     <div class="process-head">
-      <h2>Calisma Surecimiz</h2>
+      <h2>Çalışma Sürecimiz</h2>
       <p class="section-subtitle">
-        Her iste ayni disiplin: planli operasyon, teknik dogruluk, sifir surpriz.
+        Her işte aynı disiplin: planlı operasyon, teknik doğruluk, sıfır sürpriz.
       </p>
     </div>
     <div class="process-grid">

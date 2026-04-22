@@ -1,29 +1,29 @@
 <template>
   <section class="section container">
     <div class="section-head">
-      <p class="eyebrow">Sik Sorulanlar</p>
-      <h2>Kisa Bilgilendirme</h2>
+      <p class="eyebrow">Sık Sorulanlar</p>
+      <h2>Kısa Bilgilendirme</h2>
     </div>
     <div class="mini-faq">
       <article>
-        <h3>Hangi bolgelere hizmet veriyorsunuz?</h3>
+        <h3>Hangi bölgelere hizmet veriyorsunuz?</h3>
         <p>
-          Elazig merkez basta olmak uzere cevre ilce ve yakin illerde proje
-          bazli hizmet veriyoruz.
+          Elazığ merkez başta olmak üzere çevre ilçe ve yakın illerde proje
+          bazlı hizmet veriyoruz.
         </p>
       </article>
       <article>
-        <h3>Acil isler icin ne kadar surede donus yapiliyor?</h3>
+        <h3>Acil işler için ne kadar sürede dönüş yapılıyor?</h3>
         <p>
-          Uygun ekipman ve saha durumuna gore en kisa surede planlama yapip
-          donus sagliyoruz.
+          Uygun ekipman ve saha durumuna göre en kısa sürede planlama yapıp
+          dönüş sağlıyoruz.
         </p>
       </article>
       <article>
-        <h3>Hizmetler saatlik mi, gunluk mu?</h3>
+        <h3>Hizmetler saatlik mi, günlük mü?</h3>
         <p>
-          Isin kapsam ve surecine gore saatlik, gunluk veya proje bazli esnek
-          fiyatlandirma sunuyoruz.
+          İşin kapsam ve sürecine göre saatlik, günlük veya proje bazlı esnek
+          fiyatlandırma sunuyoruz.
         </p>
       </article>
     </div>
