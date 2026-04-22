@@ -14,9 +14,9 @@ const router = createRouter({
       name: 'home',
       component: HomeView,
       meta: {
-        title: 'Karaaslan Vinc | Elazig Vinc ve Sepetli Platform Hizmetleri',
+        title: 'Karaaslan Vinç | Elazığ Vinç ve Sepetli Platform Hizmetleri',
         description:
-          'Elazig merkezde sepetli platform, celik montaj, konteyner nakliye ve agir kaldirma hizmetleri. 7/24 hizli ve guvenli operasyon.',
+          'Elazığ merkezde sepetli platform, çelik montaj, konteyner nakliye ve ağır kaldırma hizmetleri. 7/24 hızlı ve güvenli operasyon.',
       },
     },
     {
@@ -24,9 +24,9 @@ const router = createRouter({
       name: 'services',
       component: ServicesView,
       meta: {
-        title: 'Elazig Vinc Hizmetleri | Sepetli Platform, Celik Montaj',
+        title: 'Elazığ Vinç Hizmetleri | Sepetli Platform, Çelik Montaj',
         description:
-          'Karaaslan Vinc ile Elazigda konteyner nakliye, sepetli platform, celik montaj ve dis cephe panel kaldirma hizmetleri.',
+          'Karaaslan Vinç ile Elazığ’da konteyner nakliye, sepetli platform, çelik montaj ve dış cephe panel kaldırma hizmetleri.',
       },
     },
     {
@@ -34,9 +34,9 @@ const router = createRouter({
       name: 'gallery',
       component: GalleryView,
       meta: {
-        title: 'Proje Galerisi | Karaaslan Vinc Elazig',
+        title: 'Proje Galerisi | Karaaslan Vinç Elazığ',
         description:
-          'Elazig ve cevresinde tamamlanan vinc, montaj ve nakliye projelerimizden gercek saha goruntulerini inceleyin.',
+          'Elazığ ve çevresinde tamamlanan vinç, montaj ve nakliye projelerimizden gerçek saha görüntülerini inceleyin.',
       },
     },
     {
@@ -44,9 +44,9 @@ const router = createRouter({
       name: 'about',
       component: AboutView,
       meta: {
-        title: 'Hakkimizda | Karaaslan Vinc',
+        title: 'Hakkımızda | Karaaslan Vinç',
         description:
-          'Karaaslan Vinc; guvenlik odakli yaklasimi, deneyimli operator kadrosu ve modern ekipmanlariyla Elazigda hizmet verir.',
+          'Karaaslan Vinç; güvenlik odaklı yaklaşımı, deneyimli operatör kadrosu ve modern ekipmanlarıyla Elazığ’da hizmet verir.',
       },
     },
     {
@@ -54,9 +54,9 @@ const router = createRouter({
       name: 'contact',
       component: ContactView,
       meta: {
-        title: 'Iletisim | Karaaslan Vinc Elazig',
+        title: 'İletişim | Karaaslan Vinç Elazığ',
         description:
-          'Karaaslan Vinc ile iletisime gecin. Telefon: 0531 597 79 65. Adres: Karsiyaka Mahallesi, Meyveli Sokak, Sebze Hali Karsisi, Elazig.',
+          'Karaaslan Vinç ile iletişime geçin. Telefon: 0531 597 79 65. Adres: Karşıyaka Mahallesi, Meyveli Sokak, Sebze Hali karşısı, Elazığ.',
       },
     },
   ],

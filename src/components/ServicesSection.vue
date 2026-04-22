@@ -1,28 +1,28 @@
 <script setup>
 const services = [
   {
-    title: 'Vinc Kiralama',
+    title: 'Vinç Kiralama',
     icon: '01',
     description:
-      'Gunluk, haftalik veya proje bazli esnek kiralama secenekleriyle ihtiyaciniza uygun ekonomik cozumler.',
+      'Günlük, haftalık veya proje bazlı esnek kiralama seçenekleriyle ihtiyacınıza uygun ekonomik çözümler.',
   },
   {
-    title: 'Agir Yuk Kaldirma',
+    title: 'Ağır Yük Kaldırma',
     icon: '02',
     description:
-      'Yuksek tonajli makine ve konstruksiyon tasimalarinda hassas, guvenli ve kontrollu kaldirma operasyonlari.',
+      'Yüksek tonajlı makine ve konstrüksiyon taşımalarında hassas, güvenli ve kontrollü kaldırma operasyonları.',
   },
   {
     title: 'Sepetli Platform',
     icon: '03',
     description:
-      'Yuksekte guvenli calisma icin bakim, montaj ve dis cephe islerinde emniyetli platform hizmeti.',
+      'Yüksekte güvenli çalışma için bakım, montaj ve dış cephe işlerinde emniyetli platform hizmeti.',
   },
   {
-    title: 'Celik Montaj',
+    title: 'Çelik Montaj',
     icon: '04',
     description:
-      'Endustriyel ve insaat projelerinde uzman ekiplerle hizli, planli ve teknik montaj sureci.',
+      'Endüstriyel ve inşaat projelerinde uzman ekiplerle hızlı, planlı ve teknik montaj süreci.',
   },
 ]
 </script>
@@ -31,7 +31,7 @@ const services = [
   <section id="hizmetler" class="section container">
     <h2>Hizmetlerimiz</h2>
     <p class="section-subtitle">
-      Her projeye uygun, guclu ekipman ve planli operasyon yonetimi.
+      Her projeye uygun, güçlü ekipman ve planlı operasyon yönetimi.
     </p>
 
     <div class="cards">

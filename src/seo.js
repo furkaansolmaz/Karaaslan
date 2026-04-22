@@ -1,7 +1,7 @@
 const SITE_URL = 'https://karaaslanvinc.com'
-const DEFAULT_TITLE = 'Karaaslan Vinc | Elazig Vinc ve Sepetli Platform'
+const DEFAULT_TITLE = 'Karaaslan Vinç | Elazığ Vinç ve Sepetli Platform'
 const DEFAULT_DESCRIPTION =
-  'Karaaslan Vinc, Elazig merkez ve cevresinde sepetli vinc, celik montaj, konteyner nakliye ve agir kaldirma hizmetleri sunar.'
+  'Karaaslan Vinç, Elazığ merkez ve çevresinde sepetli vinç, çelik montaj, konteyner nakliye ve ağır kaldırma hizmetleri sunar.'
 
 function upsertMetaByName(name, content) {
   let meta = document.head.querySelector(`meta[name="${name}"]`)
@@ -44,7 +44,7 @@ export function applyRouteSeo(route) {
   upsertMetaByName('robots', 'index, follow')
 
   upsertMetaByProperty('og:type', 'website')
-  upsertMetaByProperty('og:site_name', 'Karaaslan Vinc')
+  upsertMetaByProperty('og:site_name', 'Karaaslan Vinç')
   upsertMetaByProperty('og:title', title)
   upsertMetaByProperty('og:description', description)
   upsertMetaByProperty('og:url', canonical)

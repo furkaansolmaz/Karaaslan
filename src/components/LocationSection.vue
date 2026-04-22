@@ -4,9 +4,9 @@
       <div>
         <div class="section-head">
           <p class="eyebrow">Konum</p>
-          <h2>Bize Kolayca Ulasin</h2>
+          <h2>Bize Kolayca Ulaşın</h2>
           <p class="section-subtitle">
-            Karsiyaka Mahallesi, Meyveli Sokak, Sebze Hali Karsisi, Elazig konumunda hizmet veriyoruz.
+            Karşıyaka Mahallesi, Meyveli Sokak, Sebze Hali karşısı, Elazığ konumunda hizmet veriyoruz.
           </p>
         </div>
         <a
@@ -14,7 +14,7 @@
           href="https://www.google.com/maps?q=38.6554527,39.2609367"
           target="_blank"
         >
-          Haritada Ac
+          Haritada Aç
         </a>
       </div>
       <div class="map-card">

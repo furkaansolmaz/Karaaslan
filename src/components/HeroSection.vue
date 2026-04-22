@@ -6,12 +6,12 @@ import craneCover from '../assets/crane-3.jpg'
   <header class="hero">
     <div class="hero-content container hero-layout">
       <div>
-        <p class="badge">Elazig ve Cevresi | 7/24 Hizmet</p>
-        <h1>Agir Kaldirma Islerinde Premium Hizmet Deneyimi</h1>
+        <p class="badge">Elazığ ve Çevresi | 7/24 Hizmet</p>
+        <h1>Ağır Kaldırma İşlerinde Premium Hizmet Deneyimi</h1>
         <p class="lead">
-          Karaaslan Vinc, modern ekipmanlari ve uzman operator kadrosu ile vinc
-          kiralama, agir yuk kaldirma, sepetli platform ve celik montaj
-          islerinde hizli ve emniyetli cozum sunar.
+          Karaaslan Vinç, modern ekipmanları ve uzman operatör kadrosu ile vinç
+          kiralama, ağır yük kaldırma, sepetli platform ve çelik montaj
+          işlerinde hızlı ve emniyetli çözüm sunar.
         </p>
         <div class="hero-cta">
           <RouterLink class="btn primary" to="/iletisim">Hemen Teklif Al</RouterLink>
@@ -20,20 +20,20 @@ import craneCover from '../assets/crane-3.jpg'
 
       <aside class="hero-panel">
         <div class="hero-cover" :style="{ backgroundImage: `url(${craneCover})` }">
-          <span class="hero-cover-badge">Sahadan Gercek Proje</span>
+          <span class="hero-cover-badge">Sahadan Gerçek Proje</span>
         </div>
         <div class="hero-panel-body">
-          <h3>Operasyon Ozeti</h3>
-          <p>Planli ekip, dogru ekipman, kontrollu surec.</p>
+          <h3>Operasyon Özeti</h3>
+          <p>Planlı ekip, doğru ekipman, kontrollü süreç.</p>
           <div class="hero-mini-list">
-            <span>On Kesif ve risk analizi</span>
-            <span>Belgeli operator kadrosu</span>
-            <span>Gercek zamanli saha koordinasyonu</span>
+            <span>Ön keşif ve risk analizi</span>
+            <span>Belgeli operatör kadrosu</span>
+            <span>Gerçek zamanlı saha koordinasyonu</span>
           </div>
           <div class="hero-chip-row">
-            <span>Vinc Kiralama</span>
-            <span>Agir Yuk</span>
-            <span>Celik Montaj</span>
+            <span>Vinç Kiralama</span>
+            <span>Ağır Yük</span>
+            <span>Çelik Montaj</span>
           </div>
         </div>
       </aside>
@@ -43,7 +43,7 @@ import craneCover from '../assets/crane-3.jpg'
       <div class="hero-stats">
         <article>
           <strong>10+</strong>
-          <span>Yillik Saha Deneyimi</span>
+          <span>Yıllık Saha Deneyimi</span>
         </article>
         <article>
           <strong>7/24</strong>
@@ -51,7 +51,7 @@ import craneCover from '../assets/crane-3.jpg'
         </article>
         <article>
           <strong>%100</strong>
-          <span>Guvenlik Odakli Is Plani</span>
+          <span>Güvenlik Odaklı İş Planı</span>
         </article>
       </div>
     </div>
