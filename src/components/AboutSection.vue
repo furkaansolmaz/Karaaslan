@@ -1,23 +1,19 @@
 <template>
   <section id="hakkimizda" class="section container about">
     <div class="about-copy">
-      <h2>Neden Karaaslan Vinç?</h2>
+      <h2>Elazığ Kiralık Vinç, Forklift ve Manlift Çözümleri</h2>
       <p>
-        İş güvenliğini tüm operasyonlarımızın merkezine koyuyoruz. Her projeye
-        başlamadan önce saha keşfi, kaldırma planı, ekipman uygunluk analizi ve
-        risk değerlendirmesi yaparak süreci netleştiriyoruz. Deneyimli operatör
-        ekibimiz ve planlı iş akışımızla; işlerinizi zamanında, kontrollü ve
-        maksimum verimlilikle tamamlamayı hedefliyoruz.
+        Karaaslan Vinç olarak Elazığ ve çevre illerde; kiralık vinç, forklift ve manlift ihtiyaçlarınıza profesyonel çözümler sunuyoruz. İş güvenliğini merkeze alarak, her projede saha keşfi ve risk analizi ile en uygun ekipmanı sağlıyoruz. Deneyimli operatör kadromuzla sepetli vinçten ağır kaldırmaya, forklift hizmetinden personel yükseltici platformlara kadar tüm süreçlerinizi zamanında ve maksimum verimlilikle tamamlıyoruz.
       </p>
       <RouterLink class="btn primary" to="/iletisim">Projene Özel Teklif Al</RouterLink>
     </div>
 
     <div class="about-checklist">
       <ul>
-        <li>Modern ve bakımlı vinç filosu</li>
-        <li>Belgeli, deneyimli operatör kadrosu</li>
-        <li>Zamanında teslim odaklı operasyon</li>
-        <li>7/24 erişilebilir destek hattı</li>
+        <li>Geniş Vinç, Forklift ve Manlift Filosu</li>
+        <li>Sertifikalı ve Profesyonel Operatörler</li>
+        <li>Elazığ Geneli 7/24 Kesintisiz Hizmet</li>
+        <li>Uygun Fiyatlı Günlük ve Saatlik Kiralama</li>
       </ul>
     </div>
   </section>
