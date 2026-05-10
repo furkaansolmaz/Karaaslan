@@ -14,9 +14,9 @@ const router = createRouter({
       name: 'home',
       component: HomeView,
       meta: {
-        title: 'Karaaslan Vinç | Elazığ Vinç ve Sepetli Platform Hizmetleri',
+        title: 'Elazığ Kiralık Vinç & Sepetli Vinç Hizmetleri - Karaaslan Vinç',
         description:
-          'Elazığ merkezde sepetli platform, çelik montaj, konteyner nakliye ve ağır kaldırma hizmetleri. 7/24 hızlı ve güvenli operasyon.',
+          'Elazığ kiralık vinç ve sepetli vinç ihtiyaçlarınıza profesyonel çözümler. 7/24 uygun fiyatlı sepetli platform, forklift ve ağır nakliyat hizmetleri.',
       },
     },
     {
@@ -24,9 +24,9 @@ const router = createRouter({
       name: 'services',
       component: ServicesView,
       meta: {
-        title: 'Elazığ Vinç Hizmetleri | Sepetli Platform, Çelik Montaj',
+        title: 'Elazığ Vinç Kiralama Hizmetleri | Sepetli Platform & Forklift',
         description:
-          'Karaaslan Vinç ile Elazığ’da konteyner nakliye, sepetli platform, çelik montaj ve dış cephe panel kaldırma hizmetleri.',
+          'Karaaslan Vinç ile Elazığ’da sepetli vinç kiralama, manlift, forklift ve çelik montaj hizmetleri. Güvenilir ve sertifikalı operatörler.',
       },
     },
     {
@@ -34,9 +34,9 @@ const router = createRouter({
       name: 'gallery',
       component: GalleryView,
       meta: {
-        title: 'Proje Galerisi | Karaaslan Vinç Elazığ',
+        title: 'Proje Galerisi | Elazığ Sepetli Vinç ve Montaj Çalışmaları',
         description:
-          'Elazığ ve çevresinde tamamlanan vinç, montaj ve nakliye projelerimizden gerçek saha görüntülerini inceleyin.',
+          'Elazığ ve çevresinde gerçekleştirdiğimiz kiralık vinç, sepetli platform ve forklift projelerimizi galerimizden inceleyin.',
       },
     },
     {
@@ -44,9 +44,9 @@ const router = createRouter({
       name: 'about',
       component: AboutView,
       meta: {
-        title: 'Hakkımızda | Karaaslan Vinç',
+        title: 'Hakkımızda | Elazığ’ın Güvenilir Vinç Kiralama Firması',
         description:
-          'Karaaslan Vinç; güvenlik odaklı yaklaşımı, deneyimli operatör kadrosu ve modern ekipmanlarıyla Elazığ’da hizmet verir.',
+          'Karaaslan Vinç, Elazığ’da modern vinç filosu ve uzman kadrosuyla kiralık vinç, manlift ve forklift çözümleri sunan öncü kuruluştur.',
       },
     },
     {
@@ -54,9 +54,9 @@ const router = createRouter({
       name: 'contact',
       component: ContactView,
       meta: {
-        title: 'İletişim | Karaaslan Vinç Elazığ',
+        title: 'İletişim | Elazığ Kiralık Vinç ve Sepetli Platform Fiyatları',
         description:
-          'Karaaslan Vinç ile iletişime geçin. Telefon: 0531 597 79 65. Adres: Karşıyaka Mahallesi, Meyveli Sokak, Sebze Hali karşısı, Elazığ.',
+          'Elazığ vinç kiralama fiyatları ve teknik detaylar için bize ulaşın. Telefon: 0531 597 79 65. Karaaslan Vinç Karşıyaka Mahallesi.',
       },
     },
   ],
