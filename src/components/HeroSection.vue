@@ -6,34 +6,32 @@ import craneCover from '../assets/crane-3.jpg'
   <header class="hero">
     <div class="hero-content container hero-layout">
       <div>
-        <p class="badge">Elazığ ve Çevresi | 7/24 Hizmet</p>
-        <h1>Ağır Kaldırma İşlerinde Premium Hizmet Deneyimi</h1>
+        <p class="badge">Elazığ Merkez ve Tüm İlçeleri | 7/24 Hizmet</p>
+        <h1>Elazığ Kiralık Vinç ve Sepetli Platform Hizmetleri</h1>
         <p class="lead">
-          Karaaslan Vinç, modern ekipmanları ve uzman operatör kadrosu ile vinç
-          kiralama, ağır yük kaldırma, sepetli platform ve çelik montaj
-          işlerinde hızlı ve emniyetli çözüm sunar.
+          Karaaslan Vinç; Elazığ merkez ile Kovancılar, Karakoçan, Palu, Baskil ve Sivrice başta olmak üzere tüm ilçelerde profesyonel çözümler sunar. Kiralık sepetli vinç, forklift ve manlift ihtiyaçlarınızda modern filomuzla hızlı ve emniyetli hizmet sağlıyoruz.
         </p>
         <div class="hero-cta">
-          <RouterLink class="btn primary" to="/iletisim">Hemen Teklif Al</RouterLink>
+          <RouterLink class="btn primary" to="/iletisim">Elazığ Vinç Teklifi Al</RouterLink>
         </div>
       </div>
 
       <aside class="hero-panel">
         <div class="hero-cover" :style="{ backgroundImage: `url(${craneCover})` }">
-          <span class="hero-cover-badge">Sahadan Gerçek Proje</span>
+          <span class="hero-cover-badge">Elazığ Saha Projesi</span>
         </div>
         <div class="hero-panel-body">
-          <h3>Operasyon Özeti</h3>
-          <p>Planlı ekip, doğru ekipman, kontrollü süreç.</p>
+          <h3>Elazığ Operasyon Özeti</h3>
+          <p>Kiralık sepetli vinç, forklift ve manlift çözümleri.</p>
           <div class="hero-mini-list">
-            <span>Ön keşif ve risk analizi</span>
-            <span>Belgeli operatör kadrosu</span>
-            <span>Gerçek zamanlı saha koordinasyonu</span>
+            <span>Elazığ geneli ücretsiz ön keşif</span>
+            <span>İlçe ve köylere 7/24 hızlı sevk</span>
+            <span>Günlük, haftalık ve aylık kiralama</span>
           </div>
           <div class="hero-chip-row">
-            <span>Vinç Kiralama</span>
-            <span>Ağır Yük</span>
-            <span>Çelik Montaj</span>
+            <span>Elazığ Kiralık Vinç</span>
+            <span>Elazığ Sepetli Vinç</span>
+            <span>Elazığ Forklift</span>
           </div>
         </div>
       </aside>
@@ -43,15 +41,15 @@ import craneCover from '../assets/crane-3.jpg'
       <div class="hero-stats">
         <article>
           <strong>10+</strong>
-          <span>Yıllık Saha Deneyimi</span>
+          <span>Elazığ Saha Deneyimi</span>
         </article>
         <article>
           <strong>7/24</strong>
-          <span>Kesintisiz Operasyon</span>
+          <span>Kesintisiz Yerel Destek</span>
         </article>
         <article>
           <strong>%100</strong>
-          <span>Güvenlik Odaklı İş Planı</span>
+          <span>Güvenli Kiralama Planı</span>
         </article>
       </div>
     </div>
