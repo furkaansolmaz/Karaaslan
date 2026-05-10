@@ -1,7 +1,7 @@
 const SITE_URL = 'https://karaaslanvinc.com'
-const DEFAULT_TITLE = 'Karaaslan Vinç | Elazığ Vinç ve Sepetli Platform'
+const DEFAULT_TITLE = 'Elazığ Kiralık Vinç & Sepetli Vinç Hizmetleri - Karaaslan Vinç'
 const DEFAULT_DESCRIPTION =
-  'Karaaslan Vinç, Elazığ merkez ve çevresinde sepetli vinç, çelik montaj, konteyner nakliye ve ağır kaldırma hizmetleri sunar.'
+  'Elazığ kiralık vinç ve sepetli vinç hizmetlerinde profesyonel çözümler. Karaaslan Vinç ile 7/24 uygun fiyatlı sepetli platform, çelik montaj ve konteyner nakliye.'
 
 function upsertMetaByName(name, content) {
   let meta = document.head.querySelector(`meta[name="${name}"]`)
