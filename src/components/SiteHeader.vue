@@ -23,7 +23,12 @@
 </template>
 
 <style scoped>
-/* Mevcut CSS kodlarınızın yanına veya içine ekleyebilirsiniz */
+/* Masaüstü Genel Navigasyon Yapısı */
+.nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
 
 .nav-links {
   display: flex;
@@ -31,12 +36,13 @@
   gap: 15px;
 }
 
-/* Yeşil Arama Butonu - Genel Stil */
+/* Masaüstü Yeşil Buton Stili */
 .call-btn {
   display: flex;
   align-items: center;
+  justify-content: center;
   gap: 8px;
-  background-color: #25d366; /* Canlı yeşil tonu */
+  background-color: #25d366;
   color: #fff !important;
   padding: 8px 16px;
   border-radius: 5px;
@@ -55,13 +61,26 @@
 
 
 @media (max-width: 768px) {
+  .nav {
+    flex-direction: column; 
+    gap: 12px;
+  }
 
-  
+  .nav-links {
+    flex-wrap: wrap;       
+    justify-content: center;
+    width: 100%;
+    gap: 15px;
+  }
+
+
   .call-btn {
-    background-color: #2ecc71; 
-    padding: 10px 20px; 
-    font-size: 15px;
-    box-shadow: 0 4px 10px rgba(46, 204, 113, 0.3);
+    flex-basis: 100%;      
+    order: 5;              
+    padding: 12px 20px;  
+    font-size: 16px;
+    box-shadow: 0 4px 12px rgba(37, 211, 102, 0.2);
+    margin-top: 5px;       
   }
 }
 </style>
